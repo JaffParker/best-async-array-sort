@@ -1,0 +1,19 @@
+{
+  "name": "best-async-array-sort",
+  "version": "1.0.0",
+  "description": "The most reliable asynchronous array sorting algorythm",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JaffParker/best-async-array-sort.git"
+  },
+  "author": "Andrey Kamozin <andreykamozin@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JaffParker/best-async-array-sort/issues"
+  },
+  "homepage": "https://github.com/JaffParker/best-async-array-sort#readme",
+  "engines": {
+    "node": ">=7.9.0"
+  }
+}

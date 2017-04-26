@@ -1,6 +1,6 @@
 {
   "name": "best-async-array-sort",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The most reliable asynchronous array sorting algorythm",
   "main": "index.js",
   "repository": {
